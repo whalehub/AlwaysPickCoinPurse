@@ -1,7 +1,7 @@
 ## About
 AlwaysPickCoinPurse is a mod for the videogame Vampire Survivors which skips the level-up screen that appears when leveling up with maxed out weapons and passives and always picks the Coin Purse option instead, allowing for uninterrupted and seamless gameplay in high-level runs.
 
-This mod will become obsolete with the release of patch v0.8.0, which is scheduled to be released on July 7th, 2022.
+This mod has become obsolete with the [release of patch v0.8.0](https://store.steampowered.com/news/app/1794680/view/3323108691076674105).
 
 ## Installing the mod
 1. Download the file `main.bundle.js` from the [GitHub releases page](/../../releases).
